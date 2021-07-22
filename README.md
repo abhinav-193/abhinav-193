@@ -24,9 +24,9 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 ---
 
 <p align="left">
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=abhinav-193&show_icons=true&count_private=true&hide=stars&theme=tokyonight">
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=abhinav-193&show_icons=true&hide_border=true">
 
-<img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-193&layout=compact&theme=tokyonight&custom_title=Top%10Languages">
+
 
 ---
 
