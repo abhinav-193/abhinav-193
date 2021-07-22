@@ -11,7 +11,13 @@
 
 I have a passion for learning and sharing my knowledge with others a public as possible.If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/abhinav.100)
 
+---
+ 
+### Spotify Playing 🎧
+ 
+[![Spotify](https://spotify-omega.vercel.app/api/spotify)](https://open.spotify.com/playlist/1JtSbKu33RjAKEIsLXzM03)
 
+---
 
  <p>
   <img width="250" align='right' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
